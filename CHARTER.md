@@ -10,9 +10,10 @@
 
 **Instructor / Sponsor:** Lucas Cordova (`LucasCordova` on GitHub) & Meridith Greer (`mgreer@cityofsalem` from the Dept. of Natural Resources)
 
-**GitHub repo:** <lhttps://github.com/b-l-proctor/Natural-Resources-Project/edit/main>
+**GitHub repo:** [https://github.com/b-l-proctor/Natural-Resources-Project/edit/main]
 
-**GitHub Projects board:** <link>
+**GitHub Projects board:** [https://github.com/users/b-l-proctor/projects/1/views/1]
+
 **Discord category:** `#<project>-*`
 **Studio Session:** <1, 2, or 3>
 **Studio formed:** <date>
