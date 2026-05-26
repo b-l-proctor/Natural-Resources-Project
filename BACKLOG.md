@@ -22,7 +22,7 @@ This file is the **human-readable mirror** of the [GitHub Projects (v2) Iterativ
 - **Observe:** row counts, missingness, key uniqueness, distribution sanity checks.
 - **Analyze:** decide whether the dataset survives feasibility; document in the next Iteration Review.
 - **Tag:** `M1-proposal`
-- **Size:** M
+- **Size:** Flower
 - **GitHub issue:** <link once filed>
 
 ### PBI-002
@@ -33,18 +33,18 @@ This file is the **human-readable mirror** of the [GitHub Projects (v2) Iterativ
 - **Observe:** can a peer PO who has never seen the project repeat the question back accurately?
 - **Analyze:** revise based on Studio Brief feedback.
 - **Tag:** `M1-proposal`
-- **Size:** S
+- **Size:** Flower
 - **GitHub issue:** <link once filed>
 
 ### PBI-003
 
-- **Title:** ...
-- **Hypothesis:** ...
-- **Create:** ...
-- **Observe:** ...
-- **Analyze:** ...
-- **Tag:** ...
-- **Size:** ...
-- **GitHub issue:** ...
+- **Title:** Draft Methods Section
+- **Hypothesis:** We can write out the methods section in two to four paragraphs, including the data cleaning and more.
+- **Create:** A document with rough drafts includes minimally two paragraph for the methods section.
+- **Observe:** Can a peer easily understand what is written.
+- **Analyze:** revise based on feedback.
+- **Tag:** `M2-proposal`
+- **Size:** flower
+- **GitHub issue:** <link once filed> 
 
-<!-- Add more PBIs below following the same shape. -->
+
