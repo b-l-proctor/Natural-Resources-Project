@@ -103,6 +103,6 @@ To support community access to natural resource data in a digestible way, and to
 - A Studio Critique by Wednesday at midnight (assessment of last week's delivery)
 
 ### How to reach us
-- Discord category: `#<project>-general` (day-to-day), `#<project>-studio` (Briefs and Critiques), `#<project>-blockers` (impediments)
-- GitHub repo: <link>
-- GitHub Projects board: <link>
+- Discord category: `#Project 9: Brooke-general` (day-to-day), `#Project 9: Brooke-studio` (Briefs and Critiques), `#Project 9: Brooke-blockers` (impediments)
+- GitHub repo: [https://github.com/b-l-proctor/Natural-Resources-Project/edit/main]
+- GitHub Projects board: [https://github.com/users/b-l-proctor/projects/1/views/1]
