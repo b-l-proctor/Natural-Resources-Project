@@ -23,7 +23,7 @@ This file is the **human-readable mirror** of the [GitHub Projects (v2) Iterativ
 - **Analyze:** decide whether the dataset survives feasibility; document in the next Iteration Review.
 - **Tag:** `M1-proposal`
 - **Size:** Flower
-- **GitHub issue:** <link once filed>
+- **GitHub issue:** [(https://github.com/b-l-proctor/Natural-Resources-Project/issues/1)]
 
 ### PBI-002
 
@@ -34,7 +34,7 @@ This file is the **human-readable mirror** of the [GitHub Projects (v2) Iterativ
 - **Analyze:** revise based on Studio Brief feedback.
 - **Tag:** `M1-proposal`
 - **Size:** Flower
-- **GitHub issue:** <link once filed>
+- **GitHub issue:** [https://github.com/b-l-proctor/Natural-Resources-Project/issues/2]
 
 ### PBI-003
 
@@ -45,6 +45,6 @@ This file is the **human-readable mirror** of the [GitHub Projects (v2) Iterativ
 - **Analyze:** revise based on feedback.
 - **Tag:** `M2-proposal`
 - **Size:** flower
-- **GitHub issue:** <link once filed> 
+- **GitHub issue:** [https://github.com/b-l-proctor/Natural-Resources-Project/issues/3]
 
 
