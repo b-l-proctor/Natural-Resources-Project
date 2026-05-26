@@ -6,13 +6,13 @@
 
 | Field | Value |
 |-------|-------|
-| Owner team | <names> |
-| Owner Product Lead | <name> |
-| Peer Stakeholder POs | <names of your 2 or 3 peer PO individuals> |
-| Studio Session | <1, 2, or 3> |
-| GitHub repo | <link to this repo> |
-| GitHub Projects board | <link> |
-| Discord category | `#<project>-*` |
+| Owner team | Brooke Proctor |
+| Owner Product Lead | Brooke Proctor |
+| Peer Stakeholder POs | Siera, Serenna, Spencer |
+| Studio Session | 2 |
+| GitHub repo | https://github.com/b-l-proctor/Natural-Resources-Project/edit/main |
+| GitHub Projects board | https://github.com/users/b-l-proctor/projects/1 |
+| Discord category | `#Project 9: Brooke` |
 | Instructor / Sponsor | Lucas Cordova (`LucasCordova` on GitHub) |
 
 ## What this repo contains
