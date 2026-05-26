@@ -3,10 +3,15 @@
 > Filled in live during the **Studio Charter** session in week 3. Every section below is committed in the same commit at the end of that class block. See [Studio Charter (single-session inception)](https://courses.lpcordova.phd/data510/project-framework/charter-inception.html) for the script and time-boxes.
 
 **Owner team:** Brooke Proctor
+
 **Owner Product Lead:** Brooke Proctor
+
 **Peer Stakeholder POs:** Siera Edwards, Serenna Walter, Spencer Fiden
+
 **Instructor / Sponsor:** Lucas Cordova (`LucasCordova` on GitHub) & Meridith Greer (`mgreer@cityofsalem` from the Dept. of Natural Resources)
-**GitHub repo:** <link to this repo>
+
+**GitHub repo:** <lhttps://github.com/b-l-proctor/Natural-Resources-Project/edit/main>
+
 **GitHub Projects board:** <link>
 **Discord category:** `#<project>-*`
 **Studio Session:** <1, 2, or 3>
