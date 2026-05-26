@@ -14,44 +14,44 @@
 
 **GitHub Projects board:** [https://github.com/users/b-l-proctor/projects/1/views/1]
 
-**Discord category:** `#<project>-*`
-**Studio Session:** <1, 2, or 3>
-**Studio formed:** <date>
+**Discord category:** `#Project-9: Brooke*`
+**Studio Session:** 2
+**Studio formed:** 5/25/2026
 
 ## Vision
 
-One or two sentences. The world (or organization, or domain) if this project succeeds.
+This project fits within the Natural Resources/Environmental Science realms. 
 
 ## Mission
 
-One or two sentences. What the owner team will actually do this semester.
+The owner will work to produce a visualization of natural resources in Salem, as well as an analysis of gaps across the city. 
 
 ## Context
 
-- **Users / affected parties:** who benefits, who is at risk, who might use the result.
-- **Data sources (proposed):** named sources, access status, license / ethics notes.
-- **Constraints:** time, compute, access, skills, scope.
-- **Ethics risks:** consent, retention, PII, fairness, deployment risk.
+- **Users / affected parties:** The Department of Natural Resources and the City of Salem residents will benefit from this project, with the data to back citywide change initiatives.
+- **Data sources (proposed):** The data will come from the City of Salem's Department of Natural Resources, which is publicly available data and does not pose any ethical concerns with acquisition. 
+- **Constraints:** The scope of this project will be the biggest problem. I am not sure that I will be able to do all of the analysis I would like to in the amount of time we have here. 
+- **Ethics risks:** There can be ethical risks working with community data. It is possible that the data will be used to deforest certain neighborhoods based on socioeconomic factors/environmental racism, or something of the like. Also, the level of observation will be very important, because certain aggregations will favor different viewpoints of a problem. For example, tree coverage at a neighborhood level is likely to reveal different patterns than an aggregation to the city level.
 
 ## Success criteria by milestone
 
-- **M1, proposal (W4):** <measurable criterion>
-- **M2, data summary (W7):** <measurable criterion>
-- **M3, poster rough draft (W10):** <measurable criterion>
-- **M4, write-up rough draft (W12):** <measurable criterion>
-- **M5, final write-up and poster (W14):** <measurable criterion>
+- **M1, proposal (W4):** Have access to data, do background research into existing literature, write up literature review, and write research question(s).
+- **M2, data summary (W7):** Inventory data, look for patterns of missingness, create schema, and write methods section.
+- **M3, poster rough draft (W10):** Write results section and add data visualizations.
+- **M4, write-up rough draft (W12):** Transpose poster to rough draft and flesh out. 
+- **M5, final write-up and poster (W14):** Write conclusions and revise/edit poster and write-up. 
 
 ## Working agreements (internal to owner team)
 
-- **Sync rhythm:** <e.g., one async standup per weekday in `#<project>-standup`>
-- **Code review:** <who reviews what, by when>
-- **Decision rule:** <how the team decides when it disagrees>
+- **Sync rhythm:** Swimlanes should be done by Saturday at noon. On Thursday afternoons, things should be synced.
+- **Code review:** Brooke will upload all code by Thursday nights. 
+- **Decision rule:** It's just me, so I guess I am not worried. I will confer with the stakeholders as needed.
 
 ## Working agreements (triad with peer POs)
 
-- **Studio Brief due:** <example: by 5 pm the day before class, committed to `studio/briefs/W<NN>-<peer>.md` and linked in `#<project>-studio` on Discord>. If the owner team needs the peer POs to read or review something specific *before* the Studio Session (a data preview, model results, a draft figure), file the Brief earlier so the peer POs actually have time to do that homework. Otherwise the default is "before the Studio Session starts."
-- **Studio Critique due:** <example: by the end of class for the in-person discussion, or at an agreed-upon time within one day after class (e.g., 5 pm the next day) if the peer PO needs extra time to draft a thoughtful write-up>.
-- **Priority conflict resolution:** owner team integrates briefs in good faith; the instructor arbitrates (as Process Expert) if peer POs and owner team disagree.
+- **Studio Brief due:** Sunday at 5 pm, the night before class.
+- **Studio Critique due:** Wednesdays at Midnight.
+- **Priority conflict resolution:** We will talk reasonably. 
 
 ## Response SLAs (Service Level Agreements)
 
@@ -59,11 +59,11 @@ A **Service Level Agreement** is a written promise the triad makes about *how fa
 
 | When this signal arrives... | Who responds | By when |
 |-----------------------------|--------------|---------|
-| Peer PO files a **Studio Brief** (commits to `studio/briefs/...`, links in `#<project>-studio`) | Owner team | <e.g., acknowledge in `#<project>-studio` within 24 hours, with a first-pass adopt / defer / decline call for each item> |
-| Peer PO files a **Studio Critique** | Owner team | <e.g., respond in `#<project>-studio` within 24 hours and capture follow-up items into the backlog> |
-| Owner team posts an **Iteration Review** in `README.md` | Both peer POs | <e.g., read before filing the next Brief and Critique> |
-| Owner team flags a **blocker** in `#<project>-blockers` | Instructor, plus any tagged peer PO | <e.g., responds by the next Studio Session at the latest; faster if online> |
-| Anyone asks a clarifying question in `#<project>-general` | Whoever is tagged (default: owner team) | <e.g., reply within 48 hours, even if the reply is "we will look at this next iteration"> |
+| Peer PO files a **Studio Brief** (commits to `studio/briefs/...`, links in `#<project>-studio`) | Owner team | Monday before 6 pm |
+| Peer PO files a **Studio Critique** | Owner team | Saturday by noon |
+| Owner team posts an **Iteration Review** in `README.md` | Both peer POs | Read before filing the next Brief and Critique |
+| Owner team flags a **blocker** in `#<project>-blockers` | Instructor, plus any tagged peer PO | Responds by the next Studio Session at the latest; send a GChat if you would like faster support |
+| Anyone asks a clarifying question in `#<project>-general` | Whoever is tagged (default: owner team) | Reply within 48 hours, even if the reply is "we will look at this next iteration", and send a GChat if faster support is needed |
 
 ## Definition of Ready (PBI)
 
