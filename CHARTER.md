@@ -43,7 +43,7 @@ The owner will work to produce a visualization of natural resources in Salem, as
 
 ## Working agreements (internal to owner team)
 
-- **Sync rhythm:** Swimlanes should be done by Saturday at noon. On Thursday afternoons, things should be synced.
+- **Sync rhythm:** Swimlanes should be done by Saturday at 5 pm. On Thursday afternoons, things should be synced.
 - **Code review:** Brooke will upload all code by Thursday nights. 
 - **Decision rule:** It's just me, so I guess I am not worried. I will confer with the stakeholders as needed.
 
@@ -60,7 +60,7 @@ A **Service Level Agreement** is a written promise the triad makes about *how fa
 | When this signal arrives... | Who responds | By when |
 |-----------------------------|--------------|---------|
 | Peer PO files a **Studio Brief** (commits to `studio/briefs/...`, links in `#<project>-studio`) | Owner team | Monday before 6 pm |
-| Peer PO files a **Studio Critique** | Owner team | Saturday by noon |
+| Peer PO files a **Studio Critique** | Owner team | Saturday by 5 pm |
 | Owner team posts an **Iteration Review** in `README.md` | Both peer POs | Read before filing the next Brief and Critique |
 | Owner team flags a **blocker** in `#<project>-blockers` | Instructor, plus any tagged peer PO | Responds by the next Studio Session at the latest; send a GChat if you would like faster support |
 | Anyone asks a clarifying question in `#<project>-general` | Whoever is tagged (default: owner team) | Reply within 48 hours, even if the reply is "we will look at this next iteration", and send a GChat if faster support is needed |
@@ -72,7 +72,7 @@ A PBI is ready to be pulled out of `Backlog` and moved into `Create` when it has
 - A one-sentence hypothesis or user story.
 - A named **Create**, **Observe**, **Analyze** triple.
 - A milestone tag (`M1-proposal`, `M2-data-summary`, `M3-poster-draft`, `M4-writeup-draft`, `M5-final`, `infra`, `ethics`).
-- A T-shirt size estimate (S, M, L, XL).
+- Measurements as: seed (small), flower, tree, forest (very big).
 - WIP slack on the board: `Create + Observe + Analyze` is below the team's WIP cap (owners + 1).
 
 ## Definition of Done (PBI)
@@ -92,15 +92,15 @@ A PBI is done, and may be moved from `Analyze` into `Done`, when:
 ## Stakeholder alignment memo (one-page summary)
 
 ### Why we exist
-<two sentences from Vision and Mission>
+To support community access to natural resource data in a digestible way, and to aid the City of Salem in analyzing natural resource coverage. 
 
 ### What we will deliver to peer POs every week
-- An Iteration Review in this `README.md` by <day / time>
+- An Iteration Review in this `README.md` by Saturdays at 5 pm.
 - A summary of which Studio Brief items we adopted, deferred, or declined and why
 
 ### What we need from peer POs every week
-- A Studio Brief by <day / time> next class (next iteration's requirements, questions, risks)
-- A Studio Critique by <day / time> next class (assessment of last week's delivery)
+- A Studio Brief by Sunday at 5 pm (next iteration's requirements, questions, risks)
+- A Studio Critique by Wednesday at midnight (assessment of last week's delivery)
 
 ### How to reach us
 - Discord category: `#<project>-general` (day-to-day), `#<project>-studio` (Briefs and Critiques), `#<project>-blockers` (impediments)
